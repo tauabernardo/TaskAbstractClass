@@ -1,0 +1,3 @@
+# TaskAbstractClass
+
+Fiz esse mini projetinho para proporcionar maior compreensão sobre o uso de heranças em Java, boas práticas de programação e a integração que sempre utilizo nos meus projetos: Spring Boot, JPA, MySQL e banco de dados relacional. O projeto envolve a construção de uma API CRUD, com foco na implementação de herança e classes abstratas, permitindo a reutilização de código e uma arquitetura mais organizada. Ao utilizar o MySQL, um banco de dados relacional, e o JPA para persistência de dados, consegui praticar a integração entre a camada de persistência e o backend de maneira simples e eficiente.
